@@ -26,7 +26,7 @@
     </parent>
 
     <artifactId>org.apache.sling.extensions.webconsolesecurityprovider</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>2.0.0</version>
 
     <name>Apache Sling Web Console Security Provider</name>
     <description>WebConsoleSecurityProvider for the Apache Felix Web Console using the
@@ -35,7 +35,7 @@
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolesecurityprovider.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-webconsolesecurityprovider.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>org.apache.sling.extensions.webconsolesecurityprovider-2.0.0</tag>
         <url>https://github.com/apache/sling-org-apache-sling-extensions-webconsolesecurityprovider/tree/${project.scm.tag}</url>
     </scm>
 
